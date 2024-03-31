@@ -2,6 +2,7 @@
 
 #### Technical Skills: Python, PostragesSQL, MongoDB,Machine Learning ,Deep Learning ,Power BI , MLOPS , GEN_AI , AWS
 
+
 ## Education								       		
 - Data Science 	| AlmaBetter  (2023-2024)	 			        		
 - B.S., Physics | Khalikote University  (_May 2019_)
