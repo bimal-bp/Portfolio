@@ -36,8 +36,36 @@ Logistic Regression,Random Forest,XGBoost (Gradient Boosting)
 -  Most term deposit subscribers are aged 30-36, with higher education and managerial jobs. Married clients are both the most and least likely to subscribe 
 - The XGBoost model achieved outstanding accuracy (0.93) in predicting client subscription behavior.
 
+"-----------------------------------------------------------------------------------"
+
 ## MLOPS_sensor_fault_detection_END_2_end
 [GithubLink](https://github.com/bimal-bp/MLOPS_sensor_fault_detection_END_2_end)
+
+### Problem Statement:
+- This project tackled the challenge of predicting failures in a truck's Air Pressure System (APS) using machine learning. The APS is crucial for various functions like braking and gear changes.
+
+### Approach:
+
+**Exploratory Data Analysis (EDA):**
+- Analyzed the data to understand its characteristics and identify missing values.
+Cleaned the data by removing columns with significant missing values (over 70%).
+**Missing Value Imputation:**
+- Compared five different techniques for imputing missing values in the remaining columns.
+Selected the method that resulted in the best model performance.
+**Data Balancing:**
+- Employed techniques to balance the positive and negative class distributions.
+This ensured the model wouldn't be biased towards the majority class.
+**Model Selection and Training:**
+- Evaluated and compared five different machine learning models on the balanced dataset.
+- Selected the model with the best performance as Random Forest with a high accuracy and low cost  in predicting APS failures.
+**Modular Coding and Deployment:**
+- Implemented modular code for data processing, cleaning, pre-processing, model training, and evaluation.
+- Stored the data in MongoDB Atlas for persistence and scalability.
+- Developed a workflow for reading data from MongoDB, performing pre-processing and model training, and evaluating model performance.
+**Dockerization and CI/CD:**
+- Created a Dockerfile to containerize the application, ensuring consistent execution across environments.
+- Implemented a CI/CD pipeline using GitHub Actions to automate the build, test, and deployment process.
+"-----------------------------------------------------------------------------------"
 
 ## News_extrator_GENAI_project
 [GithubLink](https://github.com/bimal-bp/News_extrator_GENAI_project)
