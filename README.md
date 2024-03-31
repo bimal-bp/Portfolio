@@ -118,6 +118,14 @@ This ensured the model wouldn't be biased towards the majority class.
 
 ## About Me
 
-Hi! This is Bimal.I have completed one year of Full Stack Data Science and AI. My aiming is for simplicity in Data Science. Real Creativity won't make things more complex. Instead, I will simplify them, Interested in a Data Science Career and so developing myself accordingly. Data Scientist and lecturer with working experience in Machine Learning, Deep Learning , GenAI and Hands-on experience on classification, regression, clustering, computer vision, natural language processing and transfer learning models to solve challenging business problems. I've a huge interest in AI . I have worked on  a lot of projects and got a lot of achievements.
+*Hi! This is Bimal.I have completed one year of Full Stack Data Science and AI. My aiming is for simplicity in Data Science. Real Creativity won't make things more complex. Instead, I will simplify them, Interested in a Data Science Career and so developing myself accordingly. Data Scientist and lecturer with working experience in Machine Learning, Deep Learning , GenAI and Hands-on experience on classification, regression, clustering, computer vision, natural language processing and transfer learning models to solve challenging business problems. I've a huge interest in AI . I have worked on  a lot of projects and got a lot of achievements.*
+
+
+## Interest 
+
+- Travell
+- Machine_learning 
+
+- **I am committed to ongoing learning and will continue to expand my skills and Knowledge** 
 
 
