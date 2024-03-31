@@ -41,9 +41,9 @@ Logistic Regression,Random Forest,XGBoost (Gradient Boosting)
 -  Most term deposit subscribers are aged 30-36, with higher education and managerial jobs. Married clients are both the most and least likely to subscribe 
 - The XGBoost model achieved outstanding accuracy (0.93) in predicting client subscription behavior.
 
-"------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+"-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
 
-## MLOPS_sensor_fault_detection_END_2_end
+## 2.MLOPS_sensor_fault_detection_END_2_end
 [GithubLink](https://github.com/bimal-bp/MLOPS_sensor_fault_detection_END_2_end)
 
 ### Problem Statement:
@@ -75,23 +75,28 @@ This ensured the model wouldn't be biased towards the majority class.
 **Dockerization and CI/CD:**
 - Created a Dockerfile to containerize the application, ensuring consistent execution across environments.
 - Implemented a CI/CD pipeline using GitHub Actions to automate the build, test, and deployment process.
-"------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
 
-## News_extrator_GENAI_project
+"----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+
+## 3.News_extrator_GENAI_project
 [GithubLink](https://github.com/bimal-bp/News_extrator_GENAI_project)
 
 ### Approach:
 
 - This a super chatbot cretaed by me which will help a lot a day to day life to extracting news from various different url which will help company to get aware about market and other componets . This is made with the help of langchain and openai .
 
-## QLora_finetune_chat_model
+"-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+
+## 4.QLora_finetune_chat_model
 [GithubLink](https://github.com/bimal-bp/QLora_finetune_chat_model)
 
 ### Approach:
 
 - This one is a super finetune model for LLM from peft which helps finetune our custom data with a less cost and low compitution as it working in quatization which quantize a large model to small model by converting bytes and it also uses lora config finetune which is a super one because lora only fine some parameters not all which is cost effective and low cost . 
 
-## DPO_Finetune_project
+"-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+
+## 5.DPO_Finetune_project
 [GithubLink](https://github.com/bimal-bp/DPO_Finetune_project)
 
 ### Approach:
@@ -99,11 +104,17 @@ This ensured the model wouldn't be biased towards the majority class.
 
 - Similar to fine-tuning LLMs with human feedback, DPO optimization involves balancing efficiency with supplier relationships. Human feedback in LLMs allows direct guidance on factual accuracy, coherence, and style, potentially surpassing reinforcement learning's complexity.
 
-## AWS_sagemaker_ml_project
+"-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+
+## 6.AWS_sagemaker_ml_project
 [GithubLink](https://github.com/bimal-bp/AWS_sagemaker_ml_project)
 
 ### Approach:
 - Aws Sagemaker is like Machine Learning in cloud which is a best platform for doing code as we have AWS instance power that models  are trained quickly and there are so many tools provided by aws as s3 for stroing artifacts and data and  experiment tracking and Endpoint for deployment. AWS endpoint is seamless endpoint which can scaleble .
+
+
+"-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+
 
 ## About Me
 
