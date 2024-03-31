@@ -12,8 +12,25 @@
 ### Bank-Marketing-Effectiveness-Prediction-ML-Classification
 [Publication](https://github.com/bimal-bp/Bank-Marketing-Effectiveness-Prediction-ML-Classification)
 
-### Bike_sharing-demand-capstone-project
-[Publication](https://github.com/bimal-bp/Bike_sharing-demand-capstone-project)
+# Business Challenge:
+- This project aimed to improve the effectiveness of direct marketing campaigns (phone calls) for a Portuguese banking institution. The goal was to predict which clients are most likely to subscribe to a term deposit.
+
+# Approach:
+
+**Data Preprocessing:**
+- Cleaned the data by removing missing values and inconsistencies.
+- Potentially transformed or combined some features for better analysis.
+**Feature Engineering:**
+- Created new features from existing ones (e.g., total contact duration) that might be more predictive.
+**Exploratory Data Analysis (EDA):**
+- Analyzed the data to understand the characteristics of clients who subscribed compared to those who didn't.
+- Identified potential trends and relationships between features that could influence the likelihood of subscribing.
+**Model Selection and Training:**
+- Trained and evaluated different machine learning classification models on the data, including:
+Logistic Regression,Random Forest,XGBoost (Gradient Boosting)
+- Compared the performance of each model using metrics like accuracy, precision, recall, F1-score, and ROC AUC score.
+**Model Tuning (Optional):**
+- Potentially fine-tuned the hyperparameters of the best performing model (XGBoost) to further improve its accuracy.
 
 ### MLOPS_sensor_fault_detection_END_2_end
 [Publication](https://github.com/bimal-bp/MLOPS_sensor_fault_detection_END_2_end)
