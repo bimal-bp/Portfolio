@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, PostragesSQL, MongoDB,Machine Learning ,Deep Learning ,Power BI , MLOPS , GEN_AI , AWS
 
 ## Education								       		
 - Data Science 	| AlmaBetter  (2023-2024)	 			        		
