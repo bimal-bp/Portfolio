@@ -83,37 +83,71 @@ This ensured the model wouldn't be biased towards the majority class.
 
 ### Approach:
 
-- This a super chatbot cretaed by me which will help a lot a day to day life to extracting news from various different url which will help company to get aware about market and other componets . This is made with the help of langchain and openai .
+- This innovative chatbot empowers businesses to stay ahead of the curve by automatically extracting and summarizing news from diverse online sources. Built with cutting-edge libraries like NumPy, pandas, Langchain , Streamlit,and OpenAI
+
+- **Benefits:**
+  
+- Enhanced Market Awareness: Gain a strategic advantage by staying up-to-date on the latest market developments.
+  
+- Improved Decision-Making: Make informed business decisions backed by accurate and timely news insights.
+  
+- Increased Efficiency: Save valuable time and resources by automating the news collection and analysis process
 
 "-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
 
 ## 4.QLora_finetune_chat_model
 [GithubLink](https://github.com/bimal-bp/QLora_finetune_chat_model)
 
-### Approach:
-
-- This one is a super finetune model for LLM from peft which helps finetune our custom data with a less cost and low compitution as it working in quatization which quantize a large model to small model by converting bytes and it also uses lora config finetune which is a super one because lora only fine some parameters not all which is cost effective and low cost . 
-
-"-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
-
 ## 5.DPO_Finetune_project
-[GithubLink](https://github.com/bimal-bp/DPO_Finetune_project)
+[GithubLink](https://github.com/bimal-bp/AWS_sagemaker_ml_project)
 
 ### Approach:
-- Days Payable Outstanding (DPO) measures a company's average time to pay suppliers. Lower DPO suggests efficient cash flow and strong supplier relationships, while higher DPO can strain those relationships and harm creditworthiness.
 
-- Similar to fine-tuning LLMs with human feedback, DPO optimization involves balancing efficiency with supplier relationships. Human feedback in LLMs allows direct guidance on factual accuracy, coherence, and style, potentially surpassing reinforcement learning's complexity.
+- **4. PEFT for Cost-Effective Quantization Fine-Tuning:**
 
-"-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+- Problem: Fine-tuning LLMs on custom data often requires significant computational resources, making it expensive and time-consuming.
+  
+- **Benefits:**
+  
+- Lower Cost: Reduces the computational resources required for fine-tuning, leading to significant cost savings.
+  
+- Faster Training: Enables faster model training due to the smaller model size and reduced parameter updates.
+  
+- Accessibility: Makes fine-tuning LLMs more accessible for businesses with limited resources.
+
+-  **5. Direct Preference Optimization (DPO):**
+
+-  DPO is a technique that allows you to directly guide the fine-tuning process without requiring explicit human labeling of factual correctness or specific styles.
+  
+-   This helps the model understand which types of responses are desirable and which ones are not.
+Ranking multiple outputs: This provides the model with more nuanced feedback about the quality and style of its responses.
+
+- **Benefits:**
+  
+- Improved Quality: Similar to human-in-the-loop, DPO helps achieve more accurate, reliable, and human-like outputs from the LLM.
+ 
+- Efficiency Gains: Unlike traditional human labeling, DPO can be more efficient as it focuses on preference selection instead of detailed annotation.
+  
+- Scalability: DPO allows for incorporating feedback from a larger pool of people, potentially leading to faster and more robust fine-tuning.
+
+"------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
 
 ## 6.AWS_sagemaker_ml_project
 [GithubLink](https://github.com/bimal-bp/AWS_sagemaker_ml_project)
 
-### Approach:
-- Aws Sagemaker is like Machine Learning in cloud which is a best platform for doing code as we have AWS instance power that models  are trained quickly and there are so many tools provided by aws as s3 for stroing artifacts and data and  experiment tracking and Endpoint for deployment. AWS endpoint is seamless endpoint which can scaleble .
+### Project Overview:
+
+- This project demonstrates my proficiency in building and deploying machine learning (ML) models on the cloud using Amazon SageMaker. SageMaker is a comprehensive platform that streamlines the entire ML lifecycle, from data preparation and training to deployment and monitoring.
+
+-  **Benefits:**
 
 
-"-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+- Leveraging Cloud Power: SageMaker utilizes the on-demand scalability of AWS instances, enabling rapid model training on powerful hardware resources. This translates to significantly faster training times compared to traditional on-premises setups.
+  
+- Integrated Toolset: SageMaker offers a rich suite of tools that simplify various aspects of the ML workflow
+
+
+"------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
 
 
 ## About Me
