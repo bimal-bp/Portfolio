@@ -85,7 +85,7 @@ This ensured the model wouldn't be biased towards the majority class.
 
 - This innovative chatbot empowers businesses to stay ahead of the curve by automatically extracting and summarizing news from diverse online sources. Built with cutting-edge libraries like NumPy, pandas, Langchain , Streamlit,and OpenAI
 
-- **Benefits:**
+### **Benefits:**
   
 - Enhanced Market Awareness: Gain a strategic advantage by staying up-to-date on the latest market developments.
   
@@ -107,7 +107,7 @@ This ensured the model wouldn't be biased towards the majority class.
 
 - Problem: Fine-tuning LLMs on custom data often requires significant computational resources, making it expensive and time-consuming.
   
-- **Benefits:**
+### **Benefits:**
   
 - Lower Cost: Reduces the computational resources required for fine-tuning, leading to significant cost savings.
   
@@ -122,7 +122,7 @@ This ensured the model wouldn't be biased towards the majority class.
 -   This helps the model understand which types of responses are desirable and which ones are not.
 Ranking multiple outputs: This provides the model with more nuanced feedback about the quality and style of its responses.
 
-- **Benefits:**
+### **Benefits:**
   
 - Improved Quality: Similar to human-in-the-loop, DPO helps achieve more accurate, reliable, and human-like outputs from the LLM.
  
@@ -139,7 +139,7 @@ Ranking multiple outputs: This provides the model with more nuanced feedback abo
 
 - This project demonstrates my proficiency in building and deploying machine learning (ML) models on the cloud using Amazon SageMaker. SageMaker is a comprehensive platform that streamlines the entire ML lifecycle, from data preparation and training to deployment and monitoring.
 
--  **Benefits:**
+###  **Benefits:**
 
 
 - Leveraging Cloud Power: SageMaker utilizes the on-demand scalability of AWS instances, enabling rapid model training on powerful hardware resources. This translates to significantly faster training times compared to traditional on-premises setups.
