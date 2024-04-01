@@ -78,7 +78,7 @@ This ensured the model wouldn't be biased towards the majority class.
 
 "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
 
-## 3.News_extrator_GENAI_project
+## 3.News_Extractor_GENAI_project
 [GithubLink](https://github.com/bimal-bp/News_extrator_GENAI_project)
 
 ### Approach:
