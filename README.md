@@ -1,11 +1,13 @@
 # Data Scientist
 
+# Experince : Data Science Tutor(ML)- AODHA EDU PVT LTD                      
+
 #### Technical Skills: Python , PostgreSQL , MongoDB ,Statistics ,Machine Learning ,Deep Learning,Power BI , MLOps, Generative AI  , AWS
 
 
 ## Education								       		
 - Certification in Full Stack Data Science and AI 	| AlmaBetter  (2023-2024)	 			        		
-- B.Sc.Physics | Khallikote University  (2016-2019)
+- B.Ed | Berhampur University  (2020-2022)
 
 
 ## Projects
