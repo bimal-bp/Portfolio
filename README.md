@@ -1,6 +1,6 @@
 # Data Scientist
 
-## Experince : Data Science Tutor(ML)- AvODHA EDU PVT LTD                      
+## Experince : Data Science Tutor(ML)- AVODHA EDU PVT LTD                      
 
 #### Technical Skills: Python , PostgreSQL , MongoDB ,Statistics ,Machine Learning ,Deep Learning,Power BI , MLOps, Generative AI  , AWS
 
